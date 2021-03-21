@@ -8,7 +8,7 @@
             <span class="text-item" v-for="(item, index) of coopText"
             :key="'text' + index">{{ item.para }}</span>
         </div>
-        <div class="btn submit-btn" @click="pop(true)">{{ btnText }}</div>
+        <a class="btn submit-btn" href="/inputCoop">{{ btnText }}</a>
     </div>
     <Footer/>
     <Float/>
