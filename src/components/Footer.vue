@@ -110,7 +110,7 @@ export default {
                 { text: "电话: 17600000000" },
                 { text: "官方微信公众号: ?" },
             ]},
-            qr: { title: "微信公众号", qr: require("@/assets/img/QR.jpg"), text: "官方微信公众号: ?" },
+            qr: { title: "微信公众号", qr: require("@/assets/img/QR.png"), text: "官方微信公众号: ?" },
             wa: "©2021 XX集团有限公司版权所有 粤ICP备xxxxxxxx号",
         }
     },
